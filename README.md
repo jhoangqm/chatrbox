@@ -2,7 +2,7 @@
 
 # Description
 
-A real time chat application used to communicate with users that accesses the web application
+Chatrbox is a simple yet effective real-time chat application that allows users to connect and chat with one another instantly. Once users join the web app, they can engage in direct conversations, making it a straightforward platform for staying in touch and communicating effortlessly.
 
 # Installation
 
